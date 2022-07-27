@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+  color: #576F72;
+}
+
+body {
+  background-color: #E4DCCF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: #F0EBE3;
+  border-width: 5px;
+}
+
+.spe {
+  text-align: left;
+}
+
+p {
+  color: grey;
+}
+
+table {
+  width: 50%;
+  height: 58%;
+  background-color: #E4DCCF;
+}
+
+table, td {
+  text-align: center;
+  border: 3px solid white;
+  border-radius: 10px;
+}
+
+table, td, th{
+  color: grey;
+  font-family: fantasy;
+}
